@@ -6,7 +6,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>TranslatorName Translator</name>
     <description>TranslatorName Translator</description>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <properties>
         <version.org.teiid>TeiidVersion</version.org.teiid>
         <wildfly-module-root>modules</wildfly-module-root>
